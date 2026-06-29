@@ -1,3 +1,5 @@
+Saathi (साथी) — An AI-powered Android accessibility layer for elderly digital inclusion with voice guidance, multilingual assistance, and scam protection.
+
 👴📱 Saathi — The Unified Digital Bridge for Elder Inclusion
 📌 Project Overview
 The platform helps senior citizens confidently use digital services such as UMANG, WhatsApp, UPI, banking apps, healthcare services, and government portals without requiring technical knowledge.
@@ -102,9 +104,6 @@ Saathi/
 │   └── project-report.pdf
 │
 └── README.md
-
-
-
 🚀 Application Workflow
 User opens any Android application.
 Saathi observes the screen using Accessibility Service.
