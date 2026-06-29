@@ -102,6 +102,9 @@ Saathi/
 │   └── project-report.pdf
 │
 └── README.md
+
+
+
 🚀 Application Workflow
 User opens any Android application.
 Saathi observes the screen using Accessibility Service.
