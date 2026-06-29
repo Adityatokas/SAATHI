@@ -7,6 +7,7 @@ The platform helps senior citizens confidently use digital services such as UMAN
 🛠️ Technologies Used
 Android Accessibility Service (Accessibility API)
 Android Studio
+
 Java / Kotlin
 XML
 Gemini Flash (LLM)
